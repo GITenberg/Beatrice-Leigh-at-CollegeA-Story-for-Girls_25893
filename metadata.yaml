@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31648'
     url: http://www.gutenberg.org/2009/agents/31648
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25893#Beatrice-Leigh-at-CollegeA-Story-for-Girls
 gutenberg_issued: '2008-06-24'
 gutenberg_type: Text
 identifiers:
